@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aman Grg</h1>
+<h1 align="center">Hi 👋, I'm Aman Garg</h1>
 <h3 align="center">A Data Scientist in the making. MBA in Data Sciences and Data Analytics.</h3>
-
-- 🌱 I’m currently learning **Tensorflow**
-
-- 📫 How to reach me **amangarg3196@gmail.com**
-
-- 📄 Know about my experiences [www.google.com](www.google.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
