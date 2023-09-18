@@ -1,8 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aman Garg</h1>
-<h3 align="center">A Data Scientist in the making. MBA in Data Sciences and Data Analytics.</h3>
+<h3 align="center">A Data Scientist. MBA in Data Sciences and Data Analytics.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<li> MBA graduate specialising in Data Sciences and Data Analytics from Symbiosis International University. 
+<li> 15+ months of data science experience
+<li> 
+<li>
+<li>
+<li>
+<li>
+<li> 
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+<!-- 
+EMAIL
+-->
+<a href="mailto:amangarg3196@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<!-- 
+LINKED IN
+-->
+<a href="https://www.linkedin.com/in/aman-garg-b2ba4a120/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
@@ -43,7 +64,7 @@ TECH STACK
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-<img src="./streamlit.png" height=28>
+<img src="./streamlit.svg" height=30>
 </p>
 
 <!-- TOOLS -->
