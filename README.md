@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aman Garg</h1>
 <h3 align="center">Data Scientist | MBA(Data Sciences and Data Analytics) | Business Development</h3>
 
-<li> 15+ months of experience in working with Data Science and Machine Learning
-<li> MBA graduate specialising in Data Sciences and Data Analytics from <a href="https://www.scit.edu/">Symbiosis International University</a>
-<li> Currently I am learning Deep Learning and Tensorflow
-<li> Love talking about future of AI, psychology, the human brain, the universe and most important football.
-<li>
-<li>
-<li> 
-<li> Wish to write a book someday
+✅ 15+ months of experience in working with Data Science and Machine Learning
+
+✅ MBA graduate specialising in Data Sciences and Data Analytics from <a href="https://www.scit.edu/">Symbiosis International University</a>
+
+✅ Currently I am learning Deep Learning and Tensorflow
+
+✅ Love talking about future of AI, psychology, the human brain, the universe and most important football.
+
+✅ Wish to write a book someday
+
 
 
 <h2 align="center">Connect with me</h2>
