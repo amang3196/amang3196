@@ -12,15 +12,19 @@
 </p>
 
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
+<!-- 
+TECH STACK
+-->
 <h2 align="center">My Tech Stack</h2>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</p>
 
 <p align="center">
 <!-- 
@@ -32,23 +36,22 @@
 -->
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/misc/ai.svg">
 </p>
-<br>
 
+<!-- FRAMEWORKS--->
 <h2 align="center">Frameworks</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+<img src="./logos/streamlit.svg" height=30>
+</p>
 
-|              |                |               |
-| :---         |     :---:      |          ---: |
-| 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)   |                                                                                                                                  | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)    | <!-- LINE1 END-->
-
-
-<h2 align="center">Frameworks</h2>
-
-|              |                |               |
-| :---         |     :---:      |          ---: |
-| <img src="./logos/pandas.svg" title="pandas" style="vertical-align:top; margin:4px">   |      | <img src="./logos/numpy.svg" title="numpy" height="100px" style="vertical-align:top; margin:4px">    | <!-- LINE1 END-->
-| <img src="./logos/seaborn.png" style="vertical-align:top; height:50px; margin-left:40">   | <img src="./logos/matplotlib.svg" title="matplotlib" height="70px" style="vertical-align:top; margin:4px">     | <img src="./logos/plotly.svg" title="plotly" style="vertical-align:top; margin:4px">    | <!-- LINE2 END-->
-| <img src="./logos/scikit-learn.svg" title="scikit-learn" style="vertical-align:top; margin:4px" height="50">     | <img src="./logos/tensorflow.svg" title="tensorflow" height="80px" style="vertical-align:top; margin:4px">       | <img src="./logos/pytorch.svg" title="pytorch" style="vertical-align:top; margin-left:40px">      | <!-- LINE3 END-->
-| <img src="./logos/streamlit.svg" title="streamlit" width=150 style="vertical-align:top; margin:4px">     |        |  <img src="./logos/flask.png" title="flask" height=40 style="vertical-align:top; margin-right:40px">     | <!-- LINE4 END-->
 <!-- TOOLS -->
 <h2 align="center">My Tools</h2>
 <p align="center">
@@ -64,4 +67,8 @@
 ######   GITHUB    ###### 
 -->
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-<!-- LINE1 END-->
+<br><br>
+<img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
