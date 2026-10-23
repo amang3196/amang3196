@@ -25,7 +25,6 @@ with 3+ years of hands-on work in healthcare and insurance AI.
 
 - **Self-correcting Data Analyst Agent** — a text-to-SQL agent that checks and fixes its own queries, built end to end with Langraph, FastAPI and Streamlit. <a href="https://github.com/amang3196/data_analyst_agent"> LINK </a>
 
-Both will ship with a free public Streamlit demo.
 
 ## 📂 Selected work
 
