@@ -21,10 +21,9 @@ with 3+ years of hands-on work in healthcare and insurance AI.
 - **Document intelligence** — LLM-driven extraction from unstructured documents
 - **Predictive modelling** — feature engineering and ML combined with LLM pattern detection
 
-## 🔨 Currently building
+## 🔨 Personal Project 
 
-- **AML Investigation Copilot** — an agentic assistant that helps analysts investigate anti-money-laundering alerts *(in progress)*
-- **Self-correcting Data Analyst Agent** — a text-to-SQL agent that checks and fixes its own queries, built end to end with tracing and CI/CD *(up next)*
+- **Self-correcting Data Analyst Agent** — a text-to-SQL agent that checks and fixes its own queries, built end to end with Langraph, FastAPI and Streamlit. <a href="https://github.com/amang3196/data_analyst_agent"> LINK </a>
 
 Both will ship with a free public Streamlit demo.
 
