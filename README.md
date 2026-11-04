@@ -16,7 +16,7 @@ with 3+ years of hands-on work in healthcare and insurance AI.
 ## 🧠 What I work on
 
 - **RAG systems** — vector RAG and knowledge-graph RAG, retrieval design, evaluation and benchmarking
-- **AI agents** — multi-step, tool-using agents with LangGraph
+- **AI agents** — multi-step, tool-using agents with LangGraph, CrewAI
 - **Knowledge graphs** — Neo4j modelling, LLM-to-Cypher, graph-based analytics
 - **Document intelligence** — LLM-driven extraction from unstructured documents
 - **Predictive modelling** — feature engineering and ML combined with LLM pattern detection
@@ -24,6 +24,7 @@ with 3+ years of hands-on work in healthcare and insurance AI.
 ## 🔨 Personal Project 
 
 - **Self-correcting Data Analyst Agent** — a text-to-SQL agent that checks and fixes its own queries, built end to end with Langraph, FastAPI and Streamlit. <a href="https://github.com/amang3196/data_analyst_agent"> LINK </a>
+- **Credit Card Fit Advisor** - You describe your spending in plain English. AI agents read the official bank documents and extract each card's reward rules, with page citations. A deterministic calculator works out what every card is worth to you in rupees, and an advisor agent explains the fine print that affects you. <a href="https://github.com/amang3196/credit-card-advisor"> LINK </a>
 
 
 ## 📂 Selected work
